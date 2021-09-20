@@ -23,3 +23,24 @@
 .CHEVELEY{
     color: fuchsia;
 }
+
+
+
+                        table{
+                            border: 1px goldenrod;
+                            text-align: center;
+                            color: green;
+                            border: 1px solid darkgreen;
+                        }
+                        th{
+                            border: 1px solid darkgreen;
+                            text-align: center;
+                            color: magenta;
+                            border: 1px solid springgreen;
+                        }
+                        td{
+                            border: 1px maroon;
+                            text-align: center;
+                            color: mediumslateblue;
+                            border: 1px solid springgreen;
+                        }
