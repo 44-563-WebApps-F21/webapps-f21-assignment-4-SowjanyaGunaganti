@@ -50,3 +50,26 @@
                             color: mediumslateblue;
                             border: 1px solid springgreen;
                         }
+                        ul.navbar-horizontal {
+                            list-style-type: none;
+                            margin: 0;
+                            padding: 0;
+                          }
+                          ul.navbar-horizontal li {
+                            float: left;
+                            color: #000;
+                            background-color: AliceBlue;
+                            border: 2px solid black;
+                          }
+                          ul.navbar-horizontal a {
+                            display: block;
+                            padding: 8px;
+                          }
+                          ul.navbar-horizontal a:hover {
+                            background-color: #555;
+                            color: white;
+                          }
+.h5{
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
