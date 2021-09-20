@@ -3,6 +3,9 @@
     font-size: medium;
     color: black;
 }
+.speech:hover{
+    color: deepskyblue;
+}
 .stage-direction{
     font-family: 'Times New Roman', Times, serif;
     font-size: smaller;
@@ -15,6 +18,9 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: medium;
     color: black;
+}
+.name:hover{
+    color: fuchsia;
 }
 .LORD{
     color: deeppink;
